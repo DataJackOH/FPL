@@ -1,0 +1,667 @@
+team_name,first_name,second_name,web_name,FPL code,FPL_ID,understat_id
+Arsenal,Mesut,??zil,??zil,37605,15,499
+Arsenal,Nacho,Monreal,Monreal,38411,6,495
+Arsenal,Sokratis,Papastathopoulos,Sokratis,39476,5,371
+Arsenal,David,Luiz Moreira Marinho,David Luiz,41270,106,1676
+Arsenal,Laurent,Koscielny,Koscielny,51507,7,494
+Arsenal,Pierre-Emerick,Aubameyang,Aubameyang,54694,11,318
+Arsenal,Henrikh,Mkhitaryan,Mkhitaryan,57249,16,317
+Arsenal,C??dric,Soares,C??dric,58822,486,847
+Arsenal,Alexandre,Lacazette,Lacazette,59966,12,3277
+Arsenal,Shkodran,Mustafi,Mustafi,69140,1,1699
+Arsenal,Bernd,Leno,Leno,80201,14,181
+Arsenal,Carl,Jenkinson,Jenkinson,80254,9,938
+Arsenal,Granit,Xhaka,Xhaka,84450,18,204
+Arsenal,Pablo,Mar??,Mar??,92371,617,8380
+Arsenal,H??ctor,Beller??n,Beller??n,98745,2,492
+Arsenal,Emiliano,Mart??nez,Mart??nez,98980,427,4401
+Arsenal,Calum,Chambers,Chambers,101184,467,508
+Arsenal,Sead,Kolasinac,Kolasinac,111457,3,342
+Arsenal,Matt,Macey,Macey,113534,646,NULL
+Arsenal,Mohamed,Elneny,Elneny,153256,20,496
+Arsenal,Ainsley,Maitland-Niles,Maitland-Niles,154043,4,1750
+Arsenal,Rob,Holding,Holding,156074,10,1749
+Arsenal,Daniel,Ceballos Fern??ndez,Ceballos,182539,469,2446
+Arsenal,Kieran,Tierney,Tierney,192895,515,8089
+Arsenal,Nicolas,P??p??,P??p??,195735,488,5656
+Arsenal,Lucas,Torreira,Torreira,198849,19,1227
+Arsenal,Joseph,Willock,Willock,200089,490,6630
+Arsenal,Reiss,Nelson,Nelson,200641,489,6492
+Arsenal,Edward,Nketiah,Nketiah,205533,13,6482
+Arsenal,Zech,Medley,Medley,209037,636,NULL
+Arsenal,Emile,Smith Rowe,Smith Rowe,209289,576,7230
+Arsenal,Bukayo,Saka,Saka,223340,541,7322
+Arsenal,Tyreece,John-Jules,John-Jules,232233,585,NULL
+Arsenal,Matthew,Smith,Smith,232241,647,NULL
+Arsenal,Konstantinos,Mavropanos,Mavropanos,233963,8,6722
+Arsenal,Matteo,Guendouzi,Guendouzi,242166,21,5759
+Arsenal,Gabriel Teodoro,Martinelli Silva,Martinelli,444145,504,7752
+Aston Villa,Jos??,Reina,Reina,8432,603,1374
+Aston Villa,Tom,Heaton,Heaton,21205,94,1651
+Aston Villa,Birkir,Bjarnason,Bjarnason,27770,33,8269
+Aston Villa,Ahmed,El Mohamady,El Mohamady,37339,22,1685
+Aston Villa,Henri,Lansbury,Lansbury,40564,35,7727
+Aston Villa,James,Chester,Chester,43252,23,NULL
+Aston Villa,Neil,Taylor,Taylor,47390,24,710
+Aston Villa,Jonathan,Kodjia,Kodjia,54764,26,7725
+Aston Villa,Daniel,Drinkwater,Drinkwater,61603,120,752
+Aston Villa,Jed,Steer,Steer,79852,429,4475
+Aston Villa,Borja,Gonz??lez Tom??s,Bast??n,83091,623,1701
+Aston Villa,Conor,Hourihane,Hourihane,85242,28,7721
+Aston Villa,Lovre,Kalinic,Kalinic,88175,474,NULL
+Aston Villa,Jos?? Ignacio,Peleteiro Romallo,Jota,89274,36,2132
+Aston Villa,??rjan,Nyland,Nyland,98770,27,250
+Aston Villa,Bjorn,Engels,Engels,108156,455,7152
+Aston Villa,Jack,Grealish,Grealish,114283,29,675
+Aston Villa,John,McGinn,McGinn,122806,31,7723
+Aston Villa,Kortney,Hause,Hause,123354,25,6859
+Aston Villa,Mahmoud Ahmed,Ibrahim Hassan,Tr??z??guet,148508,465,7722
+Aston Villa,Tyrone,Mings,Mings,149484,445,1024
+Aston Villa,Matt,Targett,Targett,169359,309,884
+Aston Villa,Andre,Green,Green,174597,32,874
+Aston Villa,Marvelous,Nakamba,Nakamba,184704,491,8040
+Aston Villa,Anwar,El Ghazi,El Ghazi,193488,30,5612
+Aston Villa,Ezri,Konsa Ngoyo,Konsa,199798,452,7726
+Aston Villa,Fr??d??ric,Guilbert,Guilbert,203368,458,3253
+Aston Villa,Wesley,Moraes,Wesley,213345,428,7724
+Aston Villa,Mbwana,Samatta,Samatta,217487,613,8287
+Aston Villa,Keinan,Davis,Davis,221239,34,1053
+Aston Villa,Indiana,Vassilev,Vassilev,223349,600,8254
+Aston Villa,Douglas Luiz,Soares de Paulo,Douglas Luiz,230046,470,6122
+Aston Villa,Kaine,Hayden,Hayden,490098,659,NULL
+Bournemouth,Simon,Francis,Francis,15149,62,456
+Bournemouth,Andrew,Surman,Surman,15237,80,460
+Bournemouth,Artur,Boruc,Boruc,18726,73,NULL
+Bournemouth,Asmir,Begovic,Begovic,40349,72,NULL
+Bournemouth,Dan,Gosling,Gosling,40387,81,462
+Bournemouth,Charlie,Daniels,Daniels,41320,60,459
+Bournemouth,Adam,Smith,Adam Smith,54469,63,825
+Bournemouth,Junior,Stanislas,Stanislas,56872,77,463
+Bournemouth,Steve,Cook,Steve Cook,56917,58,458
+Bournemouth,Callum,Wilson,Callum Wilson,75115,67,468
+Bournemouth,Joshua,King,King,78007,68,465
+Bournemouth,Ryan,Fraser,Fraser,90105,75,1683
+Bournemouth,Jordon,Ibe,Ibe,103912,78,481
+Bournemouth,David,Brooks,Brooks,111317,76,6820
+Bournemouth,Nathan,Ak??,Ak??,126184,59,579
+Bournemouth,Jefferson,Lerma,Lerma,152551,82,2182
+Bournemouth,Harry,Wilson,Harry Wilson,153682,505,5596
+Bournemouth,Jack,Stacey,Stacey,154131,446,7823
+Bournemouth,Dominic,Solanke,Solanke,154566,69,1679
+Bournemouth,Lewis,Cook,Lewis Cook,155408,79,1789
+Bournemouth,Philip,Billing,Billing,168991,476,6034
+Bournemouth,Diego,Rico,Rico,171129,65,5065
+Bournemouth,Mihai-Alexandru,Dobre,Dobre,207300,574,NULL
+Bournemouth,Sam,Surridge,Surridge,217331,71,5602
+Bournemouth,Arnaut,Danjuma Groeneveld,Danjuma,220307,492,8066
+Bournemouth,Jack,Simpson,Simpson,222434,66,6410
+Bournemouth,Chris,Mepham,Mepham,223911,61,7384
+Bournemouth,Aaron,Ramsdale,Ramsdale,225321,494,5603
+Bournemouth,Mark,Travers,Travers,229600,74,7582
+Bournemouth,Lloyd,Kelly,Kelly,235530,64,8090
+Bournemouth,Gavin,Kilkenny,Kilkenny,444183,565,NULL
+Bournemouth,Christian,Saydee,Saydee,461017,564,NULL
+Brighton,Glenn,Murray,Murray,20529,44,882
+Brighton,Beram,Kayal,Kayal,38490,56,6409
+Brighton,Dale,Stephens,Stephens,40845,57,6051
+Brighton,Ga??tan,Bong,Bong,42748,41,6105
+Brighton,David,Button,Button,50093,48,NULL
+Brighton,Leon,Balogun,Balogun,52484,40,394
+Brighton,Pascal,Gro??,Gro??,60307,49,239
+Brighton,Shane,Duffy,Duffy,61933,37,6047
+Brighton,Davy,Pr??pper,Pr??pper,66242,54,6050
+Brighton,Ezequiel,Schelotto,Schelotto,74375,546,3873
+Brighton,Aaron,Mooy,Mooy,74471,516,6033
+Brighton,Dan,Burn,Burn,78916,475,7382
+Brighton,Lewis,Dunk,Dunk,83299,42,6048
+Brighton,Anthony,Knockaert,Knockaert,83543,52,4497
+Brighton,Mart??n,Montoya,Montoya,86153,38,1950
+Brighton,Florin,Andone,Andone,93284,46,4068
+Brighton,J??rgen,Locadia,Locadia,106757,45,6542
+Brighton,Solomon,March,March,109345,55,6049
+Brighton,Adam,Webster,Webster,110735,493,7699
+Brighton,Neal,Maupay,Maupay,115382,502,3621
+Brighton,Leandro,Trossard,Trossard,116216,421,7698
+Brighton,Mathew,Ryan,Ryan,131897,47,2385
+Brighton,Alireza,Jahanbakhsh,Jahanbakhsh,165210,50,6842
+Brighton,Jos?? Heriberto,Izquierdo Mena,Izquierdo,167473,51,6231
+Brighton,Matthew,Clarke,Clarke,178173,43,NULL
+Brighton,Bernardo,Fernandes da Silva Junior,Bernardo,209362,39,5245
+Brighton,Tudor,Baluta,Baluta,213056,536,NULL
+Brighton,Alex,Cochrane,Cochrane,215066,666,NULL
+Brighton,Yves,Bissouma,Bissouma,227127,53,5609
+Brighton,Tariq,Lamptey,Lamptey,232792,586,8226
+Brighton,Aaron,Connolly,Connolly,233425,534,7991
+Brighton,Steven,Alzate,Alzate,235382,537,8020
+Brighton,Alexis,Mac Allister,Mac Allister,243016,627,8379
+Burnley,Joe,Hart,Hart,15749,95,NULL
+Burnley,Aaron,Lennon,Lennon,17349,430,593
+Burnley,James,Tarkowski,Tarkowski,17761,84,1665
+Burnley,Phil,Bardsley,Bardsley,17997,86,857
+Burnley,Erik,Pieters,Pieters,39487,447,887
+Burnley,Steven,Defour,Defour,39847,99,1657
+Burnley,Jack,Cork,Cork,40145,102,712
+Burnley,Kevin,Long,Long,41674,88,1747
+Burnley,Jay,Rodriguez,Rodriguez,44683,451,844
+Burnley,Ashley,Barnes,Barnes,44699,90,4422
+Burnley,Ben,Mee,Mee,51927,83,1654
+Burnley,Ashley,Westwood,Westwood,60551,101,669
+Burnley,Johann Berg,Gudmundsson,Gudmundsson,60586,96,1663
+Burnley,Chris,Wood,Wood,60689,91,4456
+Burnley,Matthew,Lowton,Lowton,68983,85,1652
+Burnley,Matej,Vydra,Vydra,81183,92,1017
+Burnley,Ben,Gibson,Gibson,83312,89,1707
+Burnley,Jeff,Hendrick,Hendrick,83314,100,1746
+Burnley,Robbie,Brady,Brady,90517,98,789
+Burnley,Nick,Pope,Pope,98747,93,5552
+Burnley,Charlie,Taylor,Taylor,103914,87,6044
+Burnley,Josh,Brownhill,Brownhill,172782,620,8323
+Burnley,Mace,Goodridge,Goodridge,195064,571,NULL
+Burnley,Anthony,Driscoll-Glennon,Driscoll-Glennon,195471,572,NULL
+Burnley,Josh,Benson,Benson,217401,653,NULL
+Burnley,Jimmy,Dunne,Dunne,218023,638,NULL
+Burnley,Bailey,Peacock-Farrell,Peacock-Farrell,220037,495,NULL
+Burnley,Joel,Mumbongo,Mumbongo,430367,665,NULL
+Burnley,Abd-Al-Ali Morakinyo Olaposi,Koiki,Koiki,432793,596,NULL
+Burnley,Dwight,McNeil,McNeil,433154,97,6756
+Burnley,Lukas,Jensen,Jensen,449974,641,NULL
+Burnley,Bobby,Thomas,Thomas,461102,639,NULL
+Burnley,Max,Thompson,Thompson,461450,640,8480
+Chelsea,Willy,Caballero,Caballero,20310,112,624
+Chelsea,C??sar,Azpilicueta,Azpilicueta,41328,105,681
+Chelsea,Olivier,Giroud,Giroud,44346,110,502
+Chelsea,Willian,Borges Da Silva,Willian,47431,113,700
+Chelsea,Pedro,Rodr??guez Ledesma,Pedro,49579,114,687
+Chelsea,Marcos,Alonso,Alonso,82263,103,1621
+Chelsea,Jorge Luiz,Frello Filho,Jorginho,85955,118,1389
+Chelsea,Ross,Barkley,Barkley,88894,117,592
+Chelsea,Mateo,Kovacic,Kovacic,91651,432,2254
+Chelsea,Michy,Batshuayi,Batshuayi,94245,461,1678
+Chelsea,Antonio,R??diger,R??diger,102380,104,1822
+Chelsea,Kurt,Zouma,Zouma,103192,459,935
+Chelsea,Davide,Zappacosta,Zappacosta,105700,109,1178
+Chelsea,Emerson,Palmieri dos Santos,Emerson,109533,107,1245
+Chelsea,Kepa,Arrizabalaga,Kepa,109745,111,5061
+Chelsea,N'Golo,Kant??,Kant??,116594,119,751
+Chelsea,Ruben,Loftus-Cheek,Loftus-Cheek,126187,115,688
+Chelsea,Andreas,Christensen,Christensen,135363,108,200
+Chelsea,Robert Kenedy,Nunes do Nascimento,Kenedy,167767,462,689
+Chelsea,Tammy,Abraham,Abraham,173879,460,702
+Chelsea,Christian,Pulisic,Pulisic,176413,431,2662
+Chelsea,Mason,Mount,Mount,184341,463,7768
+Chelsea,Fikayo,Tomori,Tomori,194794,529,703
+Chelsea,Ethan,Ampadu,Ampadu,199598,121,6369
+Chelsea,Addji Keaninkin Marc-Israel,Guehi,Guehi,209036,545,NULL
+Chelsea,Callum,Hudson-Odoi,Hudson-Odoi,209046,116,6456
+Chelsea,Faustino,Anjorin,Anjorin,223332,630,8383
+Chelsea,Reece,James,James,225796,506,8067
+Chelsea,Billy,Gilmour,Gilmour,243568,533,7988
+Chelsea,Armando,Broja,Broja,440323,631,8384
+Chelsea,Lewis,Bate,Bate,450529,657,NULL
+Crystal Palace,Scott,Dann,Dann,19188,127,512
+Crystal Palace,Gary,Cahill,Cahill,19419,503,699
+Crystal Palace,Wayne,Hennessey,Hennessey,20066,132,509
+Crystal Palace,Mamadou,Sakho,Sakho,40784,125,485
+Crystal Palace,Vicente,Guaita,Guaita,40836,131,2190
+Crystal Palace,Stephen,Henderson,Henderson,42525,556,NULL
+Crystal Palace,James,Tomkins,Tomkins,49413,124,530
+Crystal Palace,James,McArthur,McArthur,50471,138,633
+Crystal Palace,James,McCarthy,McCarthy,50472,157,589
+Crystal Palace,Christian,Benteke,Benteke,54861,129,606
+Crystal Palace,Cheikhou,Kouyat??,Kouyat??,55037,139,532
+Crystal Palace,Joel,Ward,Ward,55494,126,510
+Crystal Palace,Martin,Kelly,Kelly,58786,128,525
+Crystal Palace,Connor,Wickham,Wickham,59125,130,519
+Crystal Palace,Andros,Townsend,Townsend,60252,135,775
+Crystal Palace,Luka,Milivojevic,Milivojevic,66975,134,5549
+Crystal Palace,Patrick,van Aanholt,van Aanholt,74230,123,730
+Crystal Palace,Jordan,Ayew,Ayew,80146,468,672
+Crystal Palace,Wilfried,Zaha,Zaha,82403,133,522
+Crystal Palace,Jeffrey,Schlupp,Schlupp,86417,137,757
+Crystal Palace,Max,Meyer,Meyer,141020,136,338
+Crystal Palace,Jairo,Riedewald,Riedewald,173954,539,6027
+Crystal Palace,V??ctor,Camarasa,Camarasa,175946,510,2390
+Crystal Palace,Nya,Kirby,Kirby,209043,588,NULL
+Crystal Palace,Sam,Woods,Woods,221272,578,NULL
+Crystal Palace,Luke,Dreher,Dreher,221275,140,636
+Crystal Palace,Giovanni,McGregor,McGregor,234720,608,NULL
+Crystal Palace,Nikola,Tavares,Tavares,235599,635,NULL
+Crystal Palace,Tyrick,Mitchell,Mitchell,244723,579,8214
+Crystal Palace,James,Daly,Daly,432705,581,NULL
+Crystal Palace,John-Kymani,Gordon,Gordon,461382,668,NULL
+Crystal Palace,Brandon,Pierrick,Pierrick,466955,580,8216
+Everton,Maarten,Stekelenburg,Stekelenburg,10318,149,NULL
+Everton,Leighton,Baines,Baines,12745,145,588
+Everton,Theo,Walcott,Walcott,20467,153,503
+Everton,Fabian,Delph,Delph,41823,205,876
+Everton,Morgan,Schneiderlin,Schneiderlin,42774,158,551
+Everton,Gylfi,Sigurdsson,Sigurdsson,55422,151,714
+Everton,Rhu-endly,Martina,Cuco Martina,56192,577,NULL
+Everton,Jonas,L??ssl,L??ssl,57513,479,NULL
+Everton,Seamus,Coleman,Coleman,59949,144,585
+Everton,Cenk,Tosun,Tosun,66838,146,6477
+Everton,Idrissa,Gueye,Gueye,80801,156,668
+Everton,Bernard,An??cio Caldeira Duarte,Bernard,100649,152,7063
+Everton,Lucas,Digne,Digne,101188,141,1823
+Everton,Djibril,Sidib??,Sidib??,102747,511,3357
+Everton,Michael,Keane,Keane,106611,143,1653
+Everton,Jordan,Pickford,Pickford,111234,148,741
+Everton,Oumar,Niasse,Niasse,113688,570,599
+Everton,Andr?? Filipe,Tavares Gomes,Andr?? Gomes,120250,422,2383
+Everton,Alex,Iwobi,Iwobi,153133,17,500
+Everton,Jean-Philippe,Gbamin,Gbamin,160987,497,4764
+Everton,Yerry,Mina,Mina,164511,142,6521
+Everton,Tom,Davies,Davies,173807,154,1042
+Everton,Dominic,Calvert-Lewin,Calvert-Lewin,177815,147,5555
+Everton,Mason,Holgate,Holgate,194164,478,985
+Everton,Beni,Baningime,Baningime,195855,557,6384
+Everton,Richarlison,de Andrade,Richarlison,212319,150,6026
+Everton,Ellis,Simms,Simms,218997,667,NULL
+Everton,Ademola,Lookman,Lookman,219352,155,5556
+Everton,Jo??o Manuel,Neves Virg??nia,Virg??nia,222627,629,NULL
+Everton,Anthony,Gordon,Gordon,232826,561,8150
+Everton,Lewis,Gibson,Gibson,232964,477,NULL
+Everton,Moise,Kean,Kean,242058,496,1304
+Everton,Jarrad,Branthwaite,Branthwaite,480455,637,8476
+Leicester,Eldin,Jakupovic,Jakupovic,11974,169,NULL
+Leicester,Andy,King,King,13152,480,784
+Leicester,Wes,Morgan,Morgan,15033,165,748
+Leicester,Kasper,Schmeichel,Schmeichel,17745,168,745
+Leicester,Christian,Fuchs,Fuchs,37402,163,749
+Leicester,Jonny,Evans,Evans,37642,162,807
+Leicester,Ryan,Bennett,Bennett,41727,404,787
+Leicester,Marc,Albrighton,Albrighton,51938,174,753
+Leicester,Matty,James,James,61604,177,4441
+Leicester,Nampalys,Mendy,Mendy,86881,179,1785
+Leicester,Danny,Ward,Ward,95463,170,NULL
+Leicester,Jamie,Vardy,Vardy,101668,166,755
+Leicester,Dennis,Praet,Praet,106837,517,1234
+Leicester,Ricardo Domingos,Barbosa Pereira,Pereira,111931,159,3303
+Leicester,Rachid,Ghezzal,Ghezzal,115858,173,3276
+Leicester,Daniel,Amartey,Amartey,155569,178,759
+Leicester,Youri,Tielemans,Tielemans,166989,448,5956
+Leicester,Ayoze,P??rez,P??rez,168580,265,770
+Leicester,Demarai,Gray,Gray,172632,175,762
+Leicester,James,Maddison,Maddison,172780,171,6818
+Leicester,Benjamin,Chilwell,Chilwell,172850,161,782
+Leicester,Kelechi,Iheanacho,Iheanacho,173515,167,620
+Leicester,Darnell,Johnson,Johnson,173810,662,NULL
+Leicester,Hamza,Choudhury,Choudhury,197469,180,6418
+Leicester,Harvey,Barnes,Barnes,201666,172,6681
+Leicester,Wilfred,Ndidi,Ndidi,203341,176,5545
+Leicester,Filip,Benkovic,Benkovic,213405,597,NULL
+Leicester,??aglar,S??y??nc??,S??y??nc??,218031,164,5264
+Leicester,James,Justin,Justin,220627,433,7753
+Leicester,George,Hirst,Hirst,222625,661,8563
+Leicester,Luke,Thomas,Thomas,244619,660,8562
+Liverpool,Andy,Lonergan,Lonergan,11948,530,NULL
+Liverpool,James,Milner,Milner,15157,200,489
+Liverpool,Dejan,Lovren,Lovren,38454,186,602
+Liverpool,Adam,Lallana,Lallana,39155,195,486
+Liverpool,Georginio,Wijnaldum,Wijnaldum,41733,199,771
+Liverpool,Jordan,Henderson,Henderson,56979,198,605
+Liverpool,Adri??n,San Miguel del Castillo,Adri??n,60706,526,527
+Liverpool,Joel,Matip,Matip,60914,185,332
+Liverpool,Simon,Mignolet,Mignolet,66797,190,NULL
+Liverpool,Xherdan,Shaqiri,Shaqiri,68312,194,888
+Liverpool,Alex,Oxlade-Chamberlain,Chamberlain,81880,193,966
+Liverpool,Roberto,Firmino,Firmino,92217,187,482
+Liverpool,Virgil,van Dijk,van Dijk,97032,183,833
+Liverpool,Sadio,Man??,Man??,110979,192,838
+Liverpool,Alisson,Ramses Becker,Alisson,116535,189,1257
+Liverpool,Fabio Henrique,Tavares,Fabinho,116643,197,3420
+Liverpool,Mohamed,Salah,Salah,118748,191,1250
+Liverpool,Andrew,Robertson,Robertson,122798,181,1688
+Liverpool,Divock,Origi,Origi,152760,188,484
+Liverpool,Takumi,Minamino,Minamino,157882,590,8239
+Liverpool,Trent,Alexander-Arnold,Alexander-Arnold,169187,182,1791
+Liverpool,Joseph,Gomez,Gomez,171287,184,987
+Liverpool,Naby,Keita,Keita,175592,196,5247
+Liverpool,Rhian,Brewster,Brewster,195473,464,NULL
+Liverpool,Nathaniel,Phillips,Phillips,197464,589,NULL
+Liverpool,Caoimhin,Kelleher,Kelleher,200720,531,NULL
+Liverpool,Curtis,Jones,Jones,206915,569,6665
+Liverpool,Neco,Williams,Williams,215136,575,8204
+Liverpool,Rafael,Camacho,Camacho,217989,201,6666
+Liverpool,Ki-Jana,Hoever,Hoever,441271,628,NULL
+Liverpool,Harvey,Elliott,Elliott,444884,550,7546
+Man City,Scott,Carson,Carson,17601,562,NULL
+Man City,David,Silva,David Silva,20664,219,617
+Man City,Fernando,Luiz Rosa,Fernandinho,27789,221,614
+Man City,Claudio,Bravo,Bravo,33148,213,1731
+Man City,Sergio,Ag??ero,Ag??ero,37572,210,619
+Man City,Nicol??s,Otamendi,Otamendi,57410,208,611
+Man City,Kyle,Walker,Walker,58621,203,638
+Man City,Ilkay,G??ndogan,G??ndogan,59859,222,314
+Man City,Kevin,De Bruyne,De Bruyne,61366,215,447
+Man City,John,Stones,Stones,97299,207,586
+Man City,Danilo Luiz,da Silva,Danilo,100180,209,2244
+Man City,Benjamin,Mendy,Mendy,102826,204,3389
+Man City,Riyad,Mahrez,Mahrez,103025,217,750
+Man City,Raheem,Sterling,Sterling,103955,214,618
+Man City,Jo??o Pedro Cavaco,Cancelo,Cancelo,121145,518,2379
+Man City,Ederson,Santana de Moraes,Ederson,121160,212,6054
+Man City,Jos?? ??ngel,Esmor??s Tasende,Angeli??o,145235,440,1040
+Man City,Aymeric,Laporte,Laporte,146941,202,2498
+Man City,Bernardo Mota,Veiga de Carvalho e Silva,Bernardo Silva,165809,218,3635
+Man City,Leroy,San??,San??,182156,216,337
+Man City,Gabriel Fernando,de Jesus,Jesus,205651,211,5543
+Man City,Oleksandr,Zinchenko,Zinchenko,206325,206,2958
+Man City,Phil,Foden,Foden,209244,220,6055
+Man City,Tommy,Doyle,Doyle,220394,644,8496
+Man City,Rodrigo,Hernandez,Rodrigo,220566,443,2496
+Man City,Cole,Palmer,Palmer,244851,643,NULL
+Man City,Taylor,Harwood-Bellis,Harwood-Bellis,245719,642,NULL
+Man City,Eric,Garcia,Garcia,432656,544,8045
+Man Utd,Lee,Grant,Grant,6744,237,NULL
+Man Utd,Ashley,Young,Young,18892,224,631
+Man Utd,Alexis,S??nchez,S??nchez,37265,240,498
+Man Utd,Matteo,Darmian,Darmian,40002,230,557
+Man Utd,Sergio,Romero,Romero,42899,236,NULL
+Man Utd,Juan,Mata,Mata,43670,242,554
+Man Utd,David,de Gea,de Gea,51940,235,546
+Man Utd,Chris,Smalling,Smalling,55909,223,628
+Man Utd,Odion,Ighalo,Ighalo,58498,624,573
+Man Utd,Marcos,Rojo,Rojo,58893,227,550
+Man Utd,Nemanja,Matic,Matic,62398,247,697
+Man Utd,Romelu,Lukaku,Lukaku,66749,232,594
+Man Utd,Paul,Pogba,Pogba,74208,238,1740
+Man Utd,Phil,Jones,Jones,76359,231,951
+Man Utd,Harry,Maguire,Maguire,95658,160,1687
+Man Utd,Frederico,Rodrigues de Paula Santos,Fred,101582,244,6817
+Man Utd,Luke,Shaw,Shaw,106760,226,1006
+Man Utd,Jesse,Lingard,Lingard,109322,241,558
+Man Utd,Bruno Miguel,Borges Fernandes,Fernandes,141746,618,1228
+Man Utd,Anthony,Martial,Martial,148225,239,553
+Man Utd,Andreas,Pereira,Pereira,156689,246,922
+Man Utd,Marcus,Rashford,Rashford,176297,233,556
+Man Utd,Axel,Tuanzebe,Tuanzebe,180804,481,934
+Man Utd,Victor,Lindel??f,Lindel??f,184667,225,6080
+Man Utd,Scott,McTominay,McTominay,195851,248,5560
+Man Utd,Eric,Bailly,Bailly,197365,228,1739
+Man Utd,Daniel,James,James,200617,243,5595
+Man Utd,Timothy,Fosu-Mensah,Fosu-Mensah,201084,658,549
+Man Utd,Angel,Gomes,Gomes,209041,245,5598
+Man Utd,Aaron,Wan-Bissaka,Wan-Bissaka,214590,122,5584
+Man Utd,Jos?? Diogo,Dalot Teixeira,Dalot,216051,229,7281
+Man Utd,Mason,Greenwood,Greenwood,220688,234,7490
+Man Utd,Tahith,Chong,Chong,222677,249,7439
+Man Utd,James,Garner,Garner,232928,250,7438
+Man Utd,Brandon,Williams,Williams,232937,549,8075
+Newcastle,Robert,Elliot,Elliot,19838,573,NULL
+Newcastle,Danny,Rose,Rose,38290,332,641
+Newcastle,Andy,Carroll,Carroll,40142,520,537
+Newcastle,Jonjo,Shelvey,Shelvey,50232,269,769
+Newcastle,Matt,Ritchie,Ritchie,56983,251,461
+Newcastle,Federico,Fern??ndez,Fern??ndez,57145,254,708
+Newcastle,Jack,Colback,Colback,58771,482,767
+Newcastle,Ciaran,Clark,Clark,58845,259,875
+Newcastle,Karl,Darlow,Darlow,59735,263,NULL
+Newcastle,Jose Luis,Mato Sanmart??n,Joselu,61316,261,866
+Newcastle,Martin,Dubravka,Dubravka,67089,262,6532
+Newcastle,Sung-yueng,Ki,Ki Sung-yueng,76542,268,723
+Newcastle,Florian,Lejeune,Lejeune,77359,257,5073
+Newcastle,Jetro,Willems,Willems,92159,498,6143
+Newcastle,Jamaal,Lascelles,Lascelles,101148,258,766
+Newcastle,Dwight,Gayle,Gayle,104547,554,743
+Newcastle,Christian,Atsu,Atsu,104953,267,2344
+Newcastle,Paul,Dummett,Dummett,106618,255,853
+Newcastle,Javier,Manquillo,Manquillo,109528,256,1719
+Newcastle,Emil,Krafth,Krafth,111773,519,1545
+Newcastle,Jacob,Murphy,Murphy,114243,483,6063
+Newcastle,Valentino,Lazaro,Lazaro,116543,614,6352
+Newcastle,Fabian,Sch??r,Sch??r,119471,252,76
+Newcastle,Nabil,Bentaleb,Bentaleb,126407,612,914
+Newcastle,DeAndre,Yedlin,Yedlin,151119,253,727
+Newcastle,Isaac,Hayden,Hayden,153127,271,6062
+Newcastle,Frederick,Woodman,Woodman,155503,264,NULL
+Newcastle,Rolando,Aarons,Aarons,155513,499,915
+Newcastle,Liam,Gibson,Gibson,156069,610,NULL
+Newcastle,Allan,Saint-Maximin,Saint-Maximin,170137,500,101
+Newcastle,Miguel,Almir??n,Almir??n,179018,266,7420
+Newcastle,Sean,Longstaff,Longstaff,180135,270,7078
+Newcastle,Joelinton C??ssio,Apolin??rio de Lira,Joelinton,180974,466,87
+Newcastle,Yoshinori,Muto,Muto,196118,260,47
+Newcastle,Matthew,Longstaff,Matthew Longstaff,223175,540,8016
+Newcastle,Thomas,Allan,Allan,232957,598,NULL
+Newcastle,Kelland,Watts,Watts,232977,599,7602
+Newcastle,Jack,Young,Young,232979,656,NULL
+Norwich,Michael,McGovern,McGovern,18499,281,8022
+Norwich,Alexander,Tettey,Tettey,18665,289,791
+Norwich,Tim,Krul,Krul,20480,280,982
+Norwich,Ralf,Fahrmann,Fahrmann,28082,449,330
+Norwich,Mario,Vrancic,Vrancic,37614,282,12
+Norwich,Teemu,Pukki,Pukki,57127,278,7696
+Norwich,Marco,Stiepermann,Stiepermann,71738,285,7694
+Norwich,Lukas,Rupp,Rupp,76306,602,62
+Norwich,Kenny,McLean,McLean,78607,286,7693
+Norwich,Josip,Drmic,Drmic,81048,434,209
+Norwich,Grant,Hanley,Hanley,83428,277,7690
+Norwich,Timm,Klose,Klose,84384,272,162
+Norwich,Moritz,Leitner,Leitner,87396,288,1217
+Norwich,Onel,Hern??ndez,Hern??ndez,89470,284,7697
+Norwich,Tom,Trybull,Trybull,90440,290,7692
+Norwich,Philip,Heise,Heise,101061,484,NULL
+Norwich,Sam,Byram,Byram,113564,454,902
+Norwich,Patrick,Roberts,Roberts,124165,435,925
+Norwich,Ibrahim,Amadou,Amadou,128348,507,3358
+Norwich,Ondrej,Duda,Duda,139110,601,5240
+Norwich,Dennis,Srbeny,Srbeny,179587,279,7822
+Norwich,Christoph,Zimmermann,Zimmermann,192303,275,7990
+Norwich,Todd,Cantwell,Cantwell,193111,287,7695
+Norwich,Jamal,Lewis,Lewis,194799,276,7691
+Norwich,Emiliano,Buend??a,Buend??a,195546,283,2203
+Norwich,Ben,Godfrey,Godfrey,198826,273,7689
+Norwich,Akin,Famewo,Famewo,232667,552,8080
+Norwich,Maximillian,Aarons,Aarons,232980,274,7688
+Norwich,Archie,Mair,Mair,233849,551,NULL
+Norwich,Daniel,Adshead,Adshead,431924,669,NULL
+Norwich,Adam,Idah,Idah,432735,538,8021
+Norwich,Josh,Martin,Martin,439485,632,8455
+Norwich,Jordan,Thomas,Thomas,444253,650,8518
+Sheffield Utd,Phil,Jagielka,Jagielka,7645,444,587
+Sheffield Utd,Leon,Clarke,Clarke,18440,547,8061
+Sheffield Utd,Richard,Stearman,Stearman,18832,296,NULL
+Sheffield Utd,Billy,Sharp,Sharp,18867,298,7712
+Sheffield Utd,David,McGoldrick,McGoldrick,27436,303,7711
+Sheffield Utd,Chris,Basham,Basham,40386,423,7704
+Sheffield Utd,John,Fleck,Fleck,47247,301,7709
+Sheffield Utd,Luke,Freeman,Freeman,49083,441,7713
+Sheffield Utd,Jack,Rodwell,Rodwell,49384,591,733
+Sheffield Utd,Mark,Duffy,Duffy,59614,300,NULL
+Sheffield Utd,Enda,Stevens,Stevens,63426,291,7707
+Sheffield Utd,Simon,Moore,Moore,74854,436,7715
+Sheffield Utd,Oliver,Norwood,Norwood,79934,302,7710
+Sheffield Utd,George,Baldock,Baldock,82691,294,7706
+Sheffield Utd,Jack,Robinson,Jack Robinson,83427,611,8286
+Sheffield Utd,Kieron,Freeman,Freeman,87121,292,8046
+Sheffield Utd,Muhamed,Be??i??,Be??i??,87447,522,908
+Sheffield Utd,Ravel,Morrison,Morrison,90518,456,1883
+Sheffield Utd,John,Egan,Egan,108416,295,7703
+Sheffield Utd,Jack,O'Connell,O'Connell,146610,293,7705
+Sheffield Utd,Richairo,Zivkovic,Zivkovic,147612,622,8472
+Sheffield Utd,John,Lundstram,Lundstram,153723,297,7708
+Sheffield Utd,Ben,Osborn,Osborn,167878,472,7714
+Sheffield Utd,Oliver,McBurnie,McBurnie,169432,501,1736
+Sheffield Utd,Callum,Robinson,Callum Robinson,171975,453,4476
+Sheffield Utd,Dean,Henderson,Henderson,172649,471,7702
+Sheffield Utd,Lys,Mousset,Mousset,178304,70,1748
+Sheffield Utd,Michael,Verrips,Verrips,194126,521,NULL
+Sheffield Utd,Sander,Berge,Berge,207189,621,8285
+Sheffield Utd,Jake,Eastwood,Eastwood,213280,299,NULL
+Sheffield Utd,Panagiotis,Retsos,Retsos,222786,625,NULL
+Southampton,Shane,Long,Long,20452,315,839
+Southampton,Ryan,Bertrand,Bertrand,40146,305,835
+Southampton,Fraser,Forster,Forster,40383,317,NULL
+Southampton,Alex,McCarthy,McCarthy,58376,318,635
+Southampton,Oriol,Romeu Vidal,Oriol Romeu,78056,328,842
+Southampton,Charlie,Austin,Austin,78356,312,848
+Southampton,Maya,Yoshida,Yoshida,80447,310,845
+Southampton,Nathan,Redmond,Redmond,83283,320,790
+Southampton,Danny,Ings,Ings,84939,313,986
+Southampton,Jack,Stephens,Stephens,88900,308,1735
+Southampton,Stuart,Armstrong,Armstrong,91047,323,6893
+Southampton,Jannik,Vestergaard,Vestergaard,93100,304,111
+Southampton,Mohamed,Elyounoussi,Elyounoussi,96787,322,6894
+Southampton,James,Ward-Prowse,Ward-Prowse,101178,321,843
+Southampton,Angus,Gunn,Gunn,107265,319,5544
+Southampton,Sofiane,Boufal,Boufal,128198,508,1734
+Southampton,Pierre-Emile,H??jbjerg,H??jbjerg,132015,325,343
+Southampton,Kevin,Danso,Danso,135720,532,5261
+Southampton,Mario,Lemina,Lemina,151086,324,1299
+Southampton,Sam,Gallagher,Gallagher,153371,316,4483
+Southampton,Kyle,Walker-Peters,Walker-Peters,158534,337,885
+Southampton,Wesley,Hoedt,Hoedt,167075,485,1203
+Southampton,Jan,Bednarek,Bednarek,171771,307,6042
+Southampton,Jacob,Maddox,Maddox,174590,663,NULL
+Southampton,Callum,Slattery,Slattery,193109,327,7335
+Southampton,Harry,Lewis,Lewis,198044,548,NULL
+Southampton,Daniel,N'Lundulu,N'Lundulu,200088,535,NULL
+Southampton,Che,Adams,Adams,200439,437,7700
+Southampton,Nathan,Tella,Tella,203389,633,8456
+Southampton,Tyreke,Johnson,Johnson,204481,326,7314
+Southampton,Yan,Valery,Valery,213482,306,7280
+Southampton,William,Smallbone,Smallbone,214466,584,8224
+Southampton,Jake,Vokins,Vokins,214470,645,8493
+Southampton,Michael,Obafemi,Obafemi,220598,314,6504
+Southampton,Kayne,Ramsay,Ramsay,232797,311,7326
+Southampton,Will,Ferry,Ferry,422306,654,NULL
+Southampton,Moussa,Djenepo,Djenepo,431131,438,7701
+Southampton,Alexandre,Jankewitz,Jankewitz,449781,649,NULL
+Spurs,Hugo,Lloris,Lloris,37915,340,637
+Spurs,Jan,Vertonghen,Vertonghen,39194,330,640
+Spurs,Michel,Vorm,Vorm,39215,555,NULL
+Spurs,Moussa,Sissoko,Sissoko,45268,349,772
+Spurs,Victor,Wanyama,Wanyama,54756,348,836
+Spurs,Toby,Alderweireld,Alderweireld,55605,331,639
+Spurs,Erik,Lamela,Lamela,62974,346,644
+Spurs,Kieran,Trippier,Trippier,77794,334,652
+Spurs,Harry,Kane,Kane,78830,338,647
+Spurs,Serge,Aurier,Aurier,80226,336,3600
+Spurs,Christian,Eriksen,Eriksen,80607,343,646
+Spurs,Heung-Min,Son,Son,85971,342,453
+Spurs,Eric,Dier,Dier,93264,350,643
+Spurs,Lucas,Rodrigues Moura da Silva,Lucas Moura,95715,345,3293
+Spurs,Paulo,Gazzaniga,Gazzaniga,102884,341,973
+Spurs,Bamidele,Alli,Alli,108823,344,645
+Spurs,Ben,Davies,Davies,115556,329,660
+Spurs,Harry,Winks,Winks,157668,347,971
+Spurs,Vincent,Janssen,Janssen,165990,339,1730
+Spurs,Georges-K??vin,Nkoudou,Nkoudou,168566,527,1729
+Spurs,Luke,Amos,Amos,168764,351,6819
+Spurs,Davinson,S??nchez,S??nchez,173904,333,6249
+Spurs,Alfie,Whiteman,Whiteman,175941,543,NULL
+Spurs,Ryan,Sessegnon,Sessegnon,184349,524,6837
+Spurs,Steven,Bergwijn,Bergwijn,194252,615,8300
+Spurs,Gedson,Carvalho Fernandes,Fernandes,195774,605,8257
+Spurs,Japhet,Tanganga,Tanganga,199584,583,8222
+Spurs,Giovani,Lo Celso,Lo Celso,200826,523,5681
+Spurs,Oliver,Skipp,Skipp,209042,352,7198
+Spurs,Brandon,Austin,Austin,214572,558,NULL
+Spurs,Tanguy,Ndombele,Ndombele,231372,442,5962
+Spurs,Juan,Foyth,Foyth,234908,335,6306
+Spurs,Troy,Parrott,Parrott,447235,509,8145
+Spurs,Harvey,White,White,448791,634,NULL
+Spurs,Dennis,Cirkin,Cirkin,461195,655,NULL
+Watford,Ben,Foster,Foster,9089,366,803
+Watford,Heurelho da Silva,Gomes,Gomes,18656,513,NULL
+Watford,Adrian,Mariappa,Mariappa,20145,356,524
+Watford,Etienne,Capoue,Capoue,38439,373,572
+Watford,Jos??,Holebas,Holebas,40868,353,568
+Watford,Craig,Cathcart,Cathcart,41338,358,581
+Watford,Troy,Deeney,Deeney,41725,362,574
+Watford,Sebastian,Pr??dl,Pr??dl,41945,361,566
+Watford,Tom,Cleverley,Cleverley,43250,371,596
+Watford,Danny,Welbeck,Welbeck,50175,512,501
+Watford,Daryl,Janmaat,Janmaat,52940,359,764
+Watford,Francisco,Femen??a Far,Kiko Femen??a,54484,357,5043
+Watford,Craig,Dawson,Dawson,60232,439,804
+Watford,Roberto,Pereyra,Pereyra,61566,369,1723
+Watford,Andre,Gray,Gray,73426,364,1660
+Watford,Christian,Kabasele,Kabasele,85624,354,1725
+Watford,Nathaniel,Chalobah,Chalobah,89085,374,1677
+Watford,Gerard,Deulofeu,Deulofeu,94924,363,591
+Watford,Dimitri,Foulquier,Foulquier,96767,542,2509
+Watford,Will,Hughes,Hughes,108413,370,6104
+Watford,Abdoulaye,Doucour??,Doucour??,121599,368,1726
+Watford,Adam,Masina,Masina,155651,355,1441
+Watford,Ken,Sema,Sema,157775,372,6841
+Watford,Ignacio,Pussetto,Pussetto,168290,604,6997
+Watford,Isaac,Success Ajayi,Success,173514,365,1724
+Watford,Ayotomiwa,Dele-Bashiru,Dele-Bashiru,175353,563,NULL
+Watford,Adalberto,Pe??aranda,Pe??aranda,194401,648,1548
+Watford,Pontus,Dahlberg,Dahlberg,206882,367,NULL
+Watford,Domingos,Quina,Quina,216058,375,5573
+Watford,Marc,Navarro,Navarro,220166,360,5085
+Watford,Isma??la,Sarr,Sarr,232185,525,5675
+Watford,Jo??o Pedro,Junqueira de Jesus,Jo??o Pedro,475168,592,8272
+West Ham,Mark,Noble,Noble,18073,396,533
+West Ham,Robert,Snodgrass,Snodgrass,18987,393,1691
+West Ham,David,Martin,Martin,19194,553,8082
+West Ham,Pablo,Zabaleta,Zabaleta,20658,379,610
+West Ham,Darren,Randolph,Randolph,32259,606,540
+West Ham,Lukasz,Fabianski,Fabianski,37096,388,706
+West Ham,Angelo,Ogbonna,Ogbonna,40669,377,528
+West Ham,Roberto,Jimenez Gago,Roberto,40694,450,NULL
+West Ham,Marko,Arnautovic,Arnautovic,41464,385,865
+West Ham,Carlos,S??nchez,Carlos S??nchez,42824,397,667
+West Ham,Javier,Hern??ndez Balc??zar,Chicharito,43020,386,191
+West Ham,Winston,Reid,Reid,48717,383,NULL
+West Ham,Jack,Wilshere,Wilshere,54102,394,1036
+West Ham,Aaron,Cresswell,Cresswell,55459,376,534
+West Ham,Andriy,Yarmolenko,Yarmolenko,56377,392,6274
+West Ham,Michail,Antonio,Antonio,57531,389,531
+West Ham,Pedro,Obiang,Obiang,59779,400,542
+West Ham,Ryan,Fredericks,Fredericks,81012,380,6891
+West Ham,Manuel,Lanzini,Lanzini,86934,391,535
+West Ham,Felipe Anderson,Pereira Gomes,Felipe Anderson,101537,390,1208
+West Ham,S??bastien,Haller,Haller,103123,457,6144
+West Ham,Arthur,Masuaku,Masuaku,105717,378,1760
+West Ham,Fabi??n,Balbuena,Balbuena,166640,382,6892
+West Ham,Jarrod,Bowen,Bowen,178186,626,1776
+West Ham,Grady,Diangana,Diangana,179830,398,6651
+West Ham,Albian,Ajeti,Ajeti,181008,514,2673
+West Ham,Nathan,Holland,Holland,183487,568,5567
+West Ham,Declan,Rice,Rice,204480,395,5553
+West Ham,Alexandre Nascimento,Costa Silva,Xande Silva,209925,387,7312
+West Ham,Alfie,Lewis,Lewis,215407,651,NULL
+West Ham,Tomas,Soucek,Soucek,215439,616,8288
+West Ham,Pablo,Fornals,Fornals,217593,399,2335
+West Ham,Issa,Diop,Diop,219924,381,3203
+West Ham,Conor,Coventry,Coventry,222017,664,NULL
+West Ham,Ben,Johnson,Johnson,222018,384,6424
+West Ham,Jeremy,Ngakia,Ngakia,232391,593,8235
+West Ham,Bernardo,Costa Da Rosa,Rosa,243710,595,NULL
+West Ham,Joseph,Anang,Anang,447879,582,NULL
+West Ham,Gon??alo Bento,Soares Cardoso,Cardoso,459373,594,NULL
+Wolves,John,Ruddy,Ruddy,19236,412,NULL
+Wolves,Jo??o Filipe Iria,Santos Moutinho,Moutinho,19624,415,3422
+Wolves,Rui Pedro,dos Santos Patr??cio,Patr??cio,38533,411,6849
+Wolves,Matt,Doherty,Doherty,87835,401,6852
+Wolves,Willy,Boly,Boly,90585,405,6850
+Wolves,Conor,Coady,Coady,94147,403,6851
+Wolves,Ra??l,Jim??nez,Jim??nez,102057,409,4105
+Wolves,Romain,Sa??ss,Sa??ss,107613,407,3491
+Wolves,Jonathan,Castro Otto,Jonny,114128,402,2280
+Wolves,Leander,Dendoncker,Dendoncker,151589,420,7236
+Wolves,Adama,Traor??,Traor??,159533,417,900
+Wolves,H??lder,Costa,Costa,165808,418,3428
+Wolves,Ivan,Cavaleiro,Cavaleiro,166324,419,3683
+Wolves,Will,Norris,Norris,168399,413,NULL
+Wolves,R??ben Diogo,da Silva Neves,Neves,171317,414,6853
+Wolves,Jes??s,Vallejo L??zaro,Vallejo,178876,473,5234
+Wolves,Oskar,Buur,Buur,179456,587,NULL
+Wolves,Diogo,Jota,Jota,194634,410,6854
+Wolves,Bernard,Ashley-Seal,Ashley-Seal,194798,559,NULL
+Wolves,Daniel,Castelo Podence,Podence,200600,619,8291
+Wolves,Patrick,Cutrone,Cutrone,209353,487,4918
+Wolves,Max,Kilman,Kilman,214048,408,7332
+Wolves,R??ben Gon??alo,Silva Nascimento Vinagre,Vinagre,216054,406,6856
+Wolves,Morgan,Gibbs-White,Gibbs-White,222531,416,6857
+Wolves,Ryan,Giles,Giles,232351,607,NULL
+Wolves,Taylor,Perry,Perry,232361,560,NULL
+Wolves,Luke,Cundle,Cundle,245923,567,NULL
+Wolves,Pedro,Lomba Neto,Neto,247632,528,6382
+Wolves,Owen,Otasowie,Otasowie,250604,566,NULL
+Wolves,Bruno Andr??,Cavaco Jordao,Jordao,428610,609,6336
+Wolves,Leonardo,Campana,Campana,474003,652,NULL
